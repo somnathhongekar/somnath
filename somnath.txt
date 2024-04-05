@@ -1,0 +1,9 @@
+x=8.0
+y=4.0
+Print(x+y)
+Print(x-y)
+print(x*y)
+print(x/y)
+Print(x%y)
+Print (abs(x))
+Print(x**y)
